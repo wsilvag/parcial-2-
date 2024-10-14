@@ -345,8 +345,3 @@ class __CONIO_H{
 
 #endif
 
-    cprintf("Hello World"); 
-    }  
-  getch();
-    return 0;
-}
